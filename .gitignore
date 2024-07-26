@@ -1,0 +1,6 @@
+#Entorno virtual
+.venv/
+
+# Archivos temporales y de caché
+*.log
+*.tmp
